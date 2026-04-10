@@ -32,10 +32,10 @@ An end-to-end AI-powered system that automates vendor invoice processing using O
 
 ## 📸 Demo Photo / Video
 
-### Invoice Input Photo
+### Invoice Input Photo / Screenshots
 https://drive.google.com/drive/u/1/folders/1sAoGqqV5Uj-ySsSX5DtsKmwEvmDJ65eH
 
-### Output in Excel
+### Output in Excel / Screenshots
 https://drive.google.com/drive/u/1/folders/1AHnN3RgClTvKjqcl04qLIbJKahkSviXM
 
 
