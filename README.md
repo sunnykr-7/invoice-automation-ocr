@@ -1,15 +1,15 @@
-# 📄 Invoice Automation using OCR
+#  Invoice Automation using OCR
 
 ##  Overview
-This project automates vendor invoice processing using OCR and Python.
 
-It extracts key details from invoices:
-- Vendor Name
-- Invoice Amount
-- Due Date
-- Category
-- Ageing (days)
-- Status (Overdue/Upcoming)
+ Invoice Automation using OCR & AI
+
+An end-to-end AI-powered system that automates vendor invoice processing using OCR and Python.
+
+🔍 Extracts key data from invoices  
+📊 Calculates ageing & payment status  
+📁 Stores structured data in Excel  
+🖥️ Interactive dashboard using Streamlit
 
 ---
 
@@ -28,10 +28,36 @@ It extracts key details from invoices:
 - Excel storage
 - Dashboard view
 
----
+
+
+## 📸 Demo Photo / Video
+
+### Invoice Input Photo
+https://drive.google.com/drive/u/1/folders/1sAoGqqV5Uj-ySsSX5DtsKmwEvmDJ65eH
+
+### Output in Excel
+https://drive.google.com/drive/u/1/folders/1AHnN3RgClTvKjqcl04qLIbJKahkSviXM
+
+
+### 🎥 Demo Video (Complete Working Project Recorded Video)
+G Drive Link - https://drive.google.com/file/d/1eWOOVJHiKWfLUTAvx1SWU6cmZY6b1sjh/view?usp=drive_link
+
 
 ## ▶️ Run Project
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+
+
+
+
+
+
+
+
+
+
+
