@@ -11,7 +11,7 @@ An end-to-end AI-powered system that automates vendor invoice processing using O
 📁 Stores structured data in Excel  
 🖥️ Interactive dashboard using Streamlit
 
----
+----
 
 ## 🛠️ Tech Stack
 - Python
@@ -19,7 +19,7 @@ An end-to-end AI-powered system that automates vendor invoice processing using O
 - Tesseract OCR
 - Pandas
 
----
+----
 
 ## ⚙️ Features
 - Upload invoice (PDF/Image)
