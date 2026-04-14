@@ -9,7 +9,7 @@ An end-to-end AI-powered system that automates vendor invoice processing using O
 🔍 Extracts key data from invoices  
 📊 Calculates ageing & payment status  
 📁 Stores structured data in Excel  
-🖥️ Interactive dashboard using Streamlit.
+🖥️ Interactive dashboard using Streamlit
 
 ----
 
