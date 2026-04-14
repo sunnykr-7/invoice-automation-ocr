@@ -40,7 +40,7 @@ https://drive.google.com/drive/u/1/folders/1AHnN3RgClTvKjqcl04qLIbJKahkSviXM
 
 
 ### 🎥 Demo Video (Complete Working Project Recorded Video)
-G Drive Link - https://drive.google.com/file/d/1eWOOVJHiKWfLUTAvx1SWU6cmZY6b1sjh/view?usp=drive_link
+G Drive Link - https://drive.google.com/file/d/1x1YOjTg6ATfrlfpzpIDZQtqEUNvqhg9l/view?usp=drive_link
 
 
 ## ▶️ Run Project
