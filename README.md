@@ -25,7 +25,7 @@ An end-to-end AI-powered system that automates vendor invoice processing using O
 - Upload invoice (PDF/Image)
 - Extract text using OCR
 - Smart data extraction
-- Excel storage
+- Excel storageeeeee
 - Dashboard view
 
 
