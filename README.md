@@ -33,14 +33,14 @@ An end-to-end AI-powered system that automates vendor invoice processing using O
 ## 📸 Demo Photo / Video
 
 ### Invoice Input Photo / Screenshots
-https://drive.google.com/drive/u/1/folders/1sAoGqqV5Uj-ySsSX5DtsKmwEvmDJ65eH
+https://drive.google.com/drive/u/1/folders/1w6ky67oQfgHQFSKqECDl_e_bXL3gGLMS
 
 ### Output in Excel / Screenshots
-https://drive.google.com/drive/u/1/folders/1AHnN3RgClTvKjqcl04qLIbJKahkSviXM
+https://drive.google.com/drive/u/1/folders/1rmOjxEsPdP0TXxhQDqR1d80Q_myEU-Fk
 
 
 ### 🎥 Demo Video (Complete Working Project Recorded Video)
-G Drive Link - https://drive.google.com/file/d/1x1YOjTg6ATfrlfpzpIDZQtqEUNvqhg9l/view?usp=drive_link
+G Drive Link - https://drive.google.com/drive/u/1/folders/12IbQFiMvC_QCKyb4MF-QZJTEzkUMYzf4
 
 
 ## ▶️ Run Project
