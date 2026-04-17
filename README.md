@@ -1,4 +1,4 @@
-#  Invoice Automation using OCR
+#  Invoice Automation using OCR And Python
 
 ##  Overview
 
