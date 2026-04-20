@@ -2,7 +2,7 @@
 
 ##  Overview
 
- Invoice Automation using OCR & AIIIIIIIIIIIIIIIIIIIII
+ Invoice Automation using OCR & AI
 
 An end-to-end AI-powered system that automates vendor invoice processing using OCR and Python.
 
