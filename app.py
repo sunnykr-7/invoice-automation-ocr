@@ -35,7 +35,7 @@ if uploaded_file:
     st.subheader("📊 Invoice Table View")
     st.dataframe(df)
 
-    # Save to Excel
+    # Save to Excel.
     save_to_excel(data, "data/output/invoices.xlsx")
 
     st.success("Saved to Excel ✅")
