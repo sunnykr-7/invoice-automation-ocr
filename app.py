@@ -25,6 +25,7 @@ if uploaded_file:
     st.text(text[:1000])
 
     # Extract data
+    # Extract data
     data = extract_invoice_data(text)
 
     # Show JSON
