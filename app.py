@@ -10,7 +10,6 @@ uploaded_file = st.file_uploader("Upload Invoice (PDF/JPG/PNG)")
 
 if uploaded_file:
     # Save file with correct extensions
-    # save
     ext = uploaded_file.name.split(".")[-1]
     file_path = f"temp_file.{ext}"
 
