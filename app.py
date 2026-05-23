@@ -16,7 +16,7 @@ if uploaded_file:
     with open(file_path, "wb") as f:
         f.write(uploaded_file.read())
 
-    # OCR
+    # OCR SECTION
     text = extract_text(file_path)
 
     #  Show OCR output
