@@ -27,7 +27,7 @@ if uploaded_file:
     # Extract data
     data = extract_invoice_data(text)
 
-    # Show JSON
+    # Show JSON ...........................................
     st.subheader("Extracted Data (JSON)")
     st.json(data)
 
