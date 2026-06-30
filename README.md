@@ -14,7 +14,7 @@ An end-to-end AI-powered system that automates vendor invoice processing using O
 --------------
 
 ## 🛠️ Tech Stack
-- Python
+- Python 
 - Streamlit
 - Tesseract OCR
 - Pandas
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 
 
 
