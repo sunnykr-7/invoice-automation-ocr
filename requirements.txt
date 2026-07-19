@@ -5,4 +5,4 @@ Pillow
 pdf2image
 openpyxl
 
-------------------- THE END -----
+------------ THE END -----
